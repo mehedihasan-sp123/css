@@ -1,0 +1,54 @@
+p{
+    color:#ff0000;
+    border: solid;
+    text-align: center;
+    width:100%;
+    font-weight: lighter;
+    font font-weight: lighter;
+}
+h4{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: red underline;
+    text-decoration: pink underline;
+    text-decoration: blue underline;
+    text-decoration: wavy red underline;
+    text-decoration: wavy red overline;
+    text-decoration: wavy red line-through;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+p2{
+    line-height: 3.5;
+    font-weight: 600;
+}
+p3{
+    text-align: center;
+    text-decoration: wavy red underline;
+    letter-spacing: 10px;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    text-decoration: red underline;
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: avant grade,didot, sans-serif;
+}
+h2{
+    font-family: spartan;
+    color: #ffa5ff;
+    text-align: center;
+    width: 700px;
+    font-size: 55px;
+    font-weight: 900px;
+    letter-spacing: 5px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+}

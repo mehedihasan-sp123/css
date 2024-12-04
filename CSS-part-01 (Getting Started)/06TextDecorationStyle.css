@@ -1,0 +1,16 @@
+h1{
+    text-align:center;
+    text-decoration: wavy blue underline;
+}
+
+h2{
+    text-decoration: double yellow overline;>
+}
+
+p{
+    text-decoration: dotted red line-through;
+}
+
+a{
+    text-decoration: none;
+}

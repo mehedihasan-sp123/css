@@ -1,0 +1,14 @@
+h2{
+    display: inline;
+    background-color:olivedrab;
+}
+span{
+    display: block;
+}
+
+span{
+    background-color: lime;
+    border: 2px solid black;
+    padding: 50px;
+    margin: 20px;
+}

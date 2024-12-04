@@ -1,0 +1,48 @@
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    transition: width 2s ease-in 0.5s ;
+}
+
+#box1:hover{
+    width: 400px;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transform: translate(200px,200px) rotate(120deg);
+}
+
+#box3{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    transform: skew X(20deg);
+}
+
+#box4{
+    width: 100px;
+    height: 100px;
+    background-color: lightgreen;
+    box-shadow: 2px 2px 8px green;
+    transition: width 3s ease-in 2s;
+    transition: height  2s ease-in 2s;
+}
+#box4:hover{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    box-shadow: 10px 10px 8px black;
+}
+
+#mypic{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    background-image: url("man.jpeg");
+    background-size: cover;
+    opacity: 100%;
+}

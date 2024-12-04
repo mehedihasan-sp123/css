@@ -1,0 +1,31 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    color: orange;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+h1,h2{
+    color:orangered;
+    background-color: aqua;
+    border:solid;
+    text-decoration: #000000 line-through;
+}
+
+#login{
+    color: yellowgreen;
+    background-color: whitesmoke;
+}
+
+#signup{
+    color: pink;
+    background-color: blanchedalmond;
+}
+
+.a{
+    color: green;
+    background-color: red;
+}

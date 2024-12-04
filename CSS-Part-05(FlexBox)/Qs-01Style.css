@@ -1,0 +1,39 @@
+#container{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    border: 2px solid black;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+
+#navbar{
+    height: 200px;
+    width: 450px;
+    background-color: bisque;
+    border-radius: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.option{
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50px;
+    text-align: center;
+    margin: left 5px;
+    font-size: 25px;
+}

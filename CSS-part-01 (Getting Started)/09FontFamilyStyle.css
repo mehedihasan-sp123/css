@@ -1,0 +1,11 @@
+h1{
+    text-align:center;
+    text-decoration: wavy red underline;
+    letter-spacing:10px;
+    font-size: 30px;
+    font-family: fantasy;
+}
+
+p{
+    font-family:arial;
+}
